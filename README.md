@@ -134,6 +134,3 @@ This split preserves physical linearity early and human-perception alignment lat
 ## License
 
 MIT (c) OPENISP_PRO Authors
-
-```
-```
