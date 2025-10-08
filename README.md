@@ -4,7 +4,7 @@
 
 **OPENISP_PRO** is a **pure-Python** software ISP that converts **RAW/DNG** from image sensors into display-ready **RGB/YUV** and **JPEG** outputs.  
 The pipeline follows a practical, production-minded order—**RAW input → front-end calibration → color reconstruction → back-end enhancement → encoding**—with robust fallbacks, metadata propagation, and intermediate artifacts for quality control and reproducibility.
-![Uploading flow_chart.png…]()
+![流程图描述](flow_chart.png)
 Key traits:
 
 - **Robust RAW ingest (`rawio`)**: reliable DNG parsing; **hierarchical fallback** for black/white levels (tags → optical black → low-quantile estimation), Bayer pattern detection, bit-depth inference, standardized metadata, and quick sRGB preview.  
