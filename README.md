@@ -54,8 +54,47 @@ Advanced capabilities such as **LSC (Lens Shading Correction)**, **HDR (multi-ex
 
 ## References
 
-[1] Park H.S. (2016) _Architectural Analysis of a Baseline ISP Pipeline_. In: Kyung C.M. (eds) **Theory and Applications of Smart Cameras**. KAIST Research Series. Springer, Dordrecht.
+[1] Zhihu Zhuanlan. (n.d.). Color Correction Matrix (CCM) — Algorithm Design [in Chinese]. Available: https://zhuanlan.zhihu.com/p/34562544
+. Accessed: 2025-10-09.
 
+[2] Zhihu Zhuanlan. (n.d.). ISP Pipeline Overview — YUV Stage [in Chinese]. Available: https://zhuanlan.zhihu.com/p/653352999
+. Accessed: 2025-10-09.
+
+[3] Zhihu (Tardis/BD). (n.d.). Automatic White Balance Algorithms: A Comparison [in Chinese]. Available: https://www.zhihu.com/tardis/bd/art/270558150?source_id=1001
+. Accessed: 2025-10-09.
+
+[4] 2048ai.net. (n.d.). Automatic White Balance (AWB) Technology [in Chinese]. Available: https://2048ai.net/681dd4dea5baf817cf4a3687.html
+. Accessed: 2025-10-09.
+
+[5] CSDN Blog (qrx941017). (n.d.). ISP Image Processing — YUV-Domain Pipeline [in Chinese]. Available: https://blog.csdn.net/qrx941017/article/details/131637811
+. Accessed: 2025-10-09.
+
+[6] CSDN Blog (weixin_44690935). (n.d.). Horizon J5 Image Tuning (4): AWB/CCM [in Chinese]. Available: https://blog.csdn.net/weixin_44690935/article/details/141951054
+. Accessed: 2025-10-09.
+
+[7] CSDN Blog (YUelite). (n.d.). DPC (Dead Pixel Correction) — Introduction [in Chinese]. Available: https://blog.csdn.net/YUelite/article/details/139933471
+. Accessed: 2025-10-09.
+
+[8] DeepinOut. (n.d.). HiSilicon ISP Modules — Intro/Overview [in Chinese]. Available: https://deepinout.com/isp/hisi-isp-module-intro.html
+. Accessed: 2025-10-09.
+
+[9] CSDN Blog (wtzhu_13). (n.d.). ISP — Gamma Correction [in Chinese]. Available: https://blog.csdn.net/wtzhu_13/article/details/119533870
+. Accessed: 2025-10-09.
+
+[10] CSDN Blog (wtzhu_13). (n.d.). ISP — Pipeline Overview [in Chinese]. Available: https://blog.csdn.net/wtzhu_13/article/details/118255864
+. Accessed: 2025-10-09.
+
+[11] Zhihu Zhuanlan. (n.d.). Article [in Chinese]. Available: https://zhuanlan.zhihu.com/p/536544215
+. Accessed: 2025-10-09.
+
+[12] Zhihu Zhuanlan. (n.d.). Article [in Chinese]. Available: https://zhuanlan.zhihu.com/p/686901150
+. Accessed: 2025-10-09.
+
+[13] Zhihu Zhuanlan. (n.d.). Article [in Chinese]. Available: https://zhuanlan.zhihu.com/p/21983679
+. Accessed: 2025-10-09.
+
+[14] FFmpeg Developers. (2023). FFmpeg [Computer software], Version 6.0. Retrieved from https://ffmpeg.org/
+. Accessed: 2025-10-09.
 ## File Structure
 
 The OPENISP_PRO project tree is listed as follows.
